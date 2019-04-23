@@ -2,7 +2,7 @@
 data('iris')
 
 # Check to see if the downloaded data set is a data frame
-
+s
 # Select all values of data frame for Sepal.length
 
 # Select only rows of Virginica flowers
